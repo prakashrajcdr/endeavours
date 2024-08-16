@@ -1,0 +1,62 @@
+2024-07-19 22:57:43,109 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.1.Final
+2024-07-19 22:57:43,190 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ValidationExampleApplication using Java 17.0.11 with PID 13964 (C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example\target\classes started by GOPI in C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example)
+2024-07-19 22:57:43,198 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-07-19 22:57:43,259 INFO o.s.b.l.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-19 22:57:43,259 INFO o.s.b.l.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-19 22:57:44,447 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat initialized with port 76 (http)
+2024-07-19 22:57:44,460 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-76"]
+2024-07-19 22:57:44,463 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2024-07-19 22:57:44,464 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-19 22:57:44,517 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-07-19 22:57:44,518 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1257 ms
+2024-07-19 22:57:44,911 INFO o.s.b.d.a.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2024-07-19 22:57:44,929 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-76"]
+2024-07-19 22:57:44,953 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat started on port 76 (http) with context path '/'
+2024-07-19 22:57:44,970 INFO o.s.b.StartupInfoLogger [restartedMain] Started ValidationExampleApplication in 2.458 seconds (process running for 3.733)
+2024-07-19 22:57:44,979 INFO c.p.ValidationExampleApplication [restartedMain] isDebugEnabled logging.false --
+2024-07-19 22:57:44,981 INFO c.p.ValidationExampleApplication [restartedMain] isEnabledForLevel(Level.INFO logging.true --
+2024-07-19 22:57:44,981 INFO c.p.ValidationExampleApplication [restartedMain] info level logging.
+2024-07-19 22:57:44,982 WARN c.p.ValidationExampleApplication [restartedMain] warn level logging.
+2024-07-19 22:57:44,982 ERROR c.p.ValidationExampleApplication [restartedMain] error level logging.
+2024-07-19 22:57:56,901 INFO o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener [File Watcher] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-19 22:57:56,916 INFO o.a.j.l.DirectJDKLog [Thread-5] Stopping ProtocolHandler ["http-nio-76"]
+2024-07-19 22:57:57,286 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ValidationExampleApplication using Java 17.0.11 with PID 13964 (C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example\target\classes started by GOPI in C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example)
+2024-07-19 22:57:57,288 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-07-19 22:57:57,561 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat initialized with port 76 (http)
+2024-07-19 22:57:57,563 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-76"]
+2024-07-19 22:57:57,564 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2024-07-19 22:57:57,564 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-19 22:57:57,580 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-07-19 22:57:57,580 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 281 ms
+2024-07-19 22:57:57,664 INFO o.s.b.d.a.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2024-07-19 22:57:57,672 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-76"]
+2024-07-19 22:57:57,680 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat started on port 76 (http) with context path '/'
+2024-07-19 22:57:57,696 INFO o.s.b.StartupInfoLogger [restartedMain] Started ValidationExampleApplication in 0.504 seconds (process running for 16.459)
+2024-07-19 22:57:57,699 INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2024-07-19 22:57:57,700 INFO c.p.ValidationExampleApplication [restartedMain] isDebugEnabled logging.false --
+2024-07-19 22:57:57,700 INFO c.p.ValidationExampleApplication [restartedMain] isEnabledForLevel(Level.INFO logging.true --
+2024-07-19 22:57:57,701 INFO c.p.ValidationExampleApplication [restartedMain] info level logging.
+2024-07-19 22:57:57,701 WARN c.p.ValidationExampleApplication [restartedMain] warn level logging.
+2024-07-19 22:57:57,701 ERROR c.p.ValidationExampleApplication [restartedMain] error level logging.
+2024-07-19 22:58:09,517 INFO o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener [File Watcher] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-19 22:58:09,523 INFO o.a.j.l.DirectJDKLog [Thread-7] Stopping ProtocolHandler ["http-nio-76"]
+2024-07-19 22:58:09,780 INFO o.s.b.StartupInfoLogger [restartedMain] Starting ValidationExampleApplication using Java 17.0.11 with PID 13964 (C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example\target\classes started by GOPI in C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example)
+2024-07-19 22:58:09,781 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-07-19 22:58:09,992 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat initialized with port 76 (http)
+2024-07-19 22:58:09,994 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-76"]
+2024-07-19 22:58:09,995 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2024-07-19 22:58:09,996 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-19 22:58:10,014 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-07-19 22:58:10,014 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 229 ms
+2024-07-19 22:58:10,098 INFO o.s.b.d.a.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2024-07-19 22:58:10,106 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-76"]
+2024-07-19 22:58:10,111 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat started on port 76 (http) with context path '/'
+2024-07-19 22:58:10,122 INFO o.s.b.StartupInfoLogger [restartedMain] Started ValidationExampleApplication in 0.395 seconds (process running for 28.885)
+2024-07-19 22:58:10,125 INFO o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2024-07-19 22:58:10,126 INFO c.p.ValidationExampleApplication [restartedMain] isDebugEnabled logging.false --
+2024-07-19 22:58:10,127 INFO c.p.ValidationExampleApplication [restartedMain] isEnabledForLevel(Level.INFO logging.true --
+2024-07-19 22:58:10,127 INFO c.p.ValidationExampleApplication [restartedMain] info level logging.
+2024-07-19 22:58:10,127 WARN c.p.ValidationExampleApplication [restartedMain] warn level logging.
+2024-07-19 22:58:10,128 ERROR c.p.ValidationExampleApplication [restartedMain] error level logging.
+2024-07-19 22:59:07,126 INFO o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener [File Watcher] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-07-19 22:59:07,128 INFO o.a.j.l.DirectJDKLog [Thread-11] Stopping ProtocolHandler ["http-nio-76"]

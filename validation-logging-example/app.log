@@ -1,0 +1,24 @@
+2024-07-19 11:42:40 INFO  o.h.validator.internal.util.Version -  - HV000001: Hibernate Validator 8.0.1.Final
+2024-07-19 11:42:40 INFO  c.p.ValidationExampleApplication - mdc-value - Starting ValidationExampleApplication using Java 17.0.11 with PID 14096 (C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example\target\classes started by GOPI in C:\Users\GOPI\Documents\Prakash\workspace1\validation-logging-example)
+2024-07-19 11:42:40 DEBUG c.p.ValidationExampleApplication - mdc-value - Running with Spring Boot v3.3.1, Spring v6.1.10
+2024-07-19 11:42:40 INFO  c.p.ValidationExampleApplication - mdc-value - No active profile set, falling back to 1 default profile: "default"
+2024-07-19 11:42:40 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - mdc-value - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-19 11:42:40 INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - mdc-value - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-07-19 11:42:42 INFO  o.s.b.w.e.tomcat.TomcatWebServer - mdc-value - Tomcat initialized with port 76 (http)
+2024-07-19 11:42:42 INFO  o.a.coyote.http11.Http11NioProtocol - mdc-value - Initializing ProtocolHandler ["http-nio-76"]
+2024-07-19 11:42:42 INFO  o.a.catalina.core.StandardService - mdc-value - Starting service [Tomcat]
+2024-07-19 11:42:42 INFO  o.a.catalina.core.StandardEngine - mdc-value - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-19 11:42:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - mdc-value - Initializing Spring embedded WebApplicationContext
+2024-07-19 11:42:42 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - mdc-value - Root WebApplicationContext: initialization completed in 1781 ms
+2024-07-19 11:42:42 INFO  o.s.b.d.a.OptionalLiveReloadServer - mdc-value - LiveReload server is running on port 35729
+2024-07-19 11:42:42 INFO  o.a.coyote.http11.Http11NioProtocol - mdc-value - Starting ProtocolHandler ["http-nio-76"]
+2024-07-19 11:42:42 INFO  o.s.b.w.e.tomcat.TomcatWebServer - mdc-value - Tomcat started on port 76 (http) with context path '/'
+2024-07-19 11:42:42 INFO  c.p.ValidationExampleApplication - mdc-value - Started ValidationExampleApplication in 3.097 seconds (process running for 4.825)
+2024-07-19 11:42:42 INFO  c.p.ValidationExampleApplication - mdc-value - isDebugEnabled logging.true --
+2024-07-19 11:42:42 INFO  c.p.ValidationExampleApplication - mdc-value - isEnabledForLevel(Level.INFO logging.true --
+2024-07-19 11:42:42 DEBUG c.p.ValidationExampleApplication - mdc-value - debug level logging.
+2024-07-19 11:42:42 INFO  c.p.ValidationExampleApplication - mdc-value - info level logging.
+2024-07-19 11:42:42 WARN  c.p.ValidationExampleApplication - mdc-value - warn level logging.
+2024-07-19 11:42:42 ERROR c.p.ValidationExampleApplication - mdc-value - error level logging.
+2024-07-19 12:31:19 INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin -  - Application shutdown requested.
+2024-07-19 12:31:19 INFO  o.a.coyote.http11.Http11NioProtocol -  - Stopping ProtocolHandler ["http-nio-76"]

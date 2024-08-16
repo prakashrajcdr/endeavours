@@ -1,0 +1,8 @@
+server:
+  port: 74
+#logging:
+#  level:
+#    root: warn
+#    com:
+#      prakash: warn
+#      prakash.controller: info
