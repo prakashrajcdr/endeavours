@@ -1,0 +1,14 @@
+spring:
+  application.name: RedisCache
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/redis_cache
+    username: root
+    password: root
+  jpa:
+    hibernate:
+#      dialect: org.hibernate.dialect.MySQLDialect
+      ddl-auto: create
+#    format_sql: true
+    show_sql: true
+        
