@@ -1,0 +1,16 @@
+<h1>Hello Cars -- {{message}}</h1>
+
+<p>
+  <a routerLink="home">Home</a>  - - - - 
+  <button (click)="goUser()">User Programaticaly</button>
+</p>
+<router-outlet></router-outlet>
+
+
+<p>Enter Brand : <input type="text" name="brand" [(ngModel)]="brand"/></p>
+<p>Enter Model : <input type="text" name="model" [(ngModel)]="model"/></p>
+<p><button (click)="addCar()">Add</button></p>
+<div *ngFor="let car of cars; let i=index" class="car">
+  <car-child [element]="car" (duplicateCar)="duplicateCar($event)"></car-child>
+</div>
+
