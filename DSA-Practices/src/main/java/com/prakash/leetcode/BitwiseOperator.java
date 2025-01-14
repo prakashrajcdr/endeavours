@@ -24,7 +24,7 @@ public class BitwiseOperator {
 
 	private static int add(int a, int b) {
 		
-		int carry = a & b;
+		int carry = a & b; 
 		if(carry == 0)
 			return a ^ b;
 		
